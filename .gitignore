@@ -1,0 +1,2 @@
+# Excluir dataset gigante para evitar fallos de push en GitHub
+magnoliaDB/02_magnolia_minimarket.dml.sql
